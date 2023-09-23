@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ewu694.github.io/static/css/main.09853771.css",
-    "main.js": "/ewu694.github.io/static/js/main.eebd6922.js",
-    "static/js/787.1ed0c42c.chunk.js": "/ewu694.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Yugioh_Joey.png": "/ewu694.github.io/static/media/Yugioh_Joey.aece652f1dbf86f78550.png",
-    "static/media/SudokuSolver.png": "/ewu694.github.io/static/media/SudokuSolver.2d9099eb1e9f7b967760.png",
-    "static/media/to_be_continued.png": "/ewu694.github.io/static/media/to_be_continued.3111651fd9778a6e1443.png",
-    "index.html": "/ewu694.github.io/index.html",
-    "main.09853771.css.map": "/ewu694.github.io/static/css/main.09853771.css.map",
-    "main.eebd6922.js.map": "/ewu694.github.io/static/js/main.eebd6922.js.map",
-    "787.1ed0c42c.chunk.js.map": "/ewu694.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Eric_Wu_Portfolio/static/css/main.09853771.css",
+    "main.js": "/Eric_Wu_Portfolio/static/js/main.196cdef4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Eric_Wu_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Yugioh_Joey.png": "/Eric_Wu_Portfolio/static/media/Yugioh_Joey.aece652f1dbf86f78550.png",
+    "static/media/SudokuSolver.png": "/Eric_Wu_Portfolio/static/media/SudokuSolver.2d9099eb1e9f7b967760.png",
+    "static/media/to_be_continued.png": "/Eric_Wu_Portfolio/static/media/to_be_continued.3111651fd9778a6e1443.png",
+    "index.html": "/Eric_Wu_Portfolio/index.html",
+    "main.09853771.css.map": "/Eric_Wu_Portfolio/static/css/main.09853771.css.map",
+    "main.196cdef4.js.map": "/Eric_Wu_Portfolio/static/js/main.196cdef4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Eric_Wu_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09853771.css",
-    "static/js/main.eebd6922.js"
+    "static/js/main.196cdef4.js"
   ]
 }
