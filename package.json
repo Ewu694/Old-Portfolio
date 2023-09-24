@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ewu694.github.io/",
+  "homepage": "https://ewu694.github.io/Eric_Wu_Portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
