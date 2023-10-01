@@ -22,6 +22,9 @@ export const Navbar = () => {
         <li>
           <NavLink to="/experience">Experience</NavLink>
         </li>
+        <li>
+          <NavLink to="/tetris">Tetris</NavLink>
+        </li>
       </ul>
     </nav>
   );
