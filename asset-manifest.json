@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Eric_Wu_Portfolio/static/css/main.c8d43afc.css",
-    "main.js": "/Eric_Wu_Portfolio/static/js/main.9198c4d2.js",
+    "main.css": "/Eric_Wu_Portfolio/static/css/main.f856e8e3.css",
+    "main.js": "/Eric_Wu_Portfolio/static/js/main.d3994ed4.js",
     "static/media/Yugioh_Joey.png": "/Eric_Wu_Portfolio/static/media/Yugioh_Joey.aece652f1dbf86f78550.png",
     "static/media/SudokuSolver.png": "/Eric_Wu_Portfolio/static/media/SudokuSolver.2d9099eb1e9f7b967760.png",
     "static/media/to_be_continued.png": "/Eric_Wu_Portfolio/static/media/to_be_continued.3111651fd9778a6e1443.png",
     "static/media/Tetris.png": "/Eric_Wu_Portfolio/static/media/Tetris.73924c340370ba8aaf23.png",
     "index.html": "/Eric_Wu_Portfolio/index.html",
-    "main.c8d43afc.css.map": "/Eric_Wu_Portfolio/static/css/main.c8d43afc.css.map",
-    "main.9198c4d2.js.map": "/Eric_Wu_Portfolio/static/js/main.9198c4d2.js.map"
+    "main.f856e8e3.css.map": "/Eric_Wu_Portfolio/static/css/main.f856e8e3.css.map",
+    "main.d3994ed4.js.map": "/Eric_Wu_Portfolio/static/js/main.d3994ed4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8d43afc.css",
-    "static/js/main.9198c4d2.js"
+    "static/css/main.f856e8e3.css",
+    "static/js/main.d3994ed4.js"
   ]
 }
