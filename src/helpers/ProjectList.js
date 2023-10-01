@@ -8,7 +8,7 @@ export const ProjectList = [
         name: "Tetris",
         image: Tetris,
         skills: "React, Javascript, CSS",
-        link: "http://localhost:3000/tetris",
+        link: "https://github.com/Ewu694/Tetris",
     },
     {
         name: "Sudoku Solver",
