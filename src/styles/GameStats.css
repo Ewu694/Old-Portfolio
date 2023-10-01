@@ -1,11 +1,10 @@
 .GameStats {
   position: absolute;
-  width: 22vw;
+  width: 12vw;
   list-style-type: none;
   color: #C16630;
   font-size: 30px;
   font-family: "Marker Felt", fantasy;
-  padding-left: 100px;
 }
 
 .GameStats__left {
