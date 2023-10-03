@@ -3,7 +3,7 @@ import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeli
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import SearchIcon from "@material-ui/icons/Search";
-import SecurityIcon from "@material-ui/icons/Security";
+import VideogameAssetIcon from '@mui/icons-material/VideogameAsset';
 
 export const Experience = () => {
   return (
@@ -53,15 +53,15 @@ export const Experience = () => {
           contentArrowStyle={{ borderRight: "25px solid  rgb(234, 212, 199)"}}
           date="2023 - Present"
           iconStyle={{ background: "#EAD4C7", color: "#721305" }}
-          icon={<SecurityIcon />}
+          icon={<VideogameAssetIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Codepath Student
+            EGD Fellow
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Cybersecurity
+            Studio Aspen
           </h4>
-          <p>Currently on the path to earn a certificate in Cybersecurity</p>
+          <p>Currently building games as a fellow at EGD</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
