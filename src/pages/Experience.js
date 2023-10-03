@@ -3,7 +3,7 @@ import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeli
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import SearchIcon from "@material-ui/icons/Search";
-import VideogameAssetIcon from '@mui/icons-material/VideogameAsset';
+import VideogameAssetIcon from '@material-ui/icons/VideogameAsset';
 
 export const Experience = () => {
   return (
