@@ -19,7 +19,7 @@ export const Home = () => {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, HTML, CSS, React, NPM,
+              ReactJS, HTML, CSS, NPM,
               BootStrap, MaterialUI, Yarn
             </span>
           </li>
