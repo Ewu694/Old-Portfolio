@@ -2,8 +2,15 @@ import SudokuSolver from "../assets/SudokuSolver.png";
 import Yugioh_Joey from "../assets/Yugioh_Joey.png";
 import to_be_continued from "../assets/to_be_continued.png";
 import Tetris from "../assets/Tetris.png";
+import meowshi from "../assets/meowshi.jpeg";
 
 export const ProjectList = [
+    {
+        name: "Meowshi",
+        image: meowshi,
+        skills: "C#, Unity",
+        link: "https://github.com/Ewu694/Meowshi",
+    },
     {
         name: "Tetris",
         image: Tetris,
