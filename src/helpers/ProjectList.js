@@ -2,7 +2,7 @@ import SudokuSolver from "../assets/SudokuSolver.png";
 import Yugioh_Joey from "../assets/Yugioh_Joey.png";
 import to_be_continued from "../assets/to_be_continued.png";
 import Tetris from "../assets/Tetris.png";
-import meowshi from "../assets/meowshi.jpeg";
+import meowshi from "../assets/meowshi.png";
 
 export const ProjectList = [
     {
