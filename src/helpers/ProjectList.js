@@ -3,8 +3,15 @@ import Yugioh_Joey from "../assets/Yugioh_Joey.png";
 import to_be_continued from "../assets/to_be_continued.png";
 import Tetris from "../assets/Tetris.png";
 import meowshi from "../assets/meowshi.png";
+import hat_attack from "../assets/hat-attack.jpeg";
 
 export const ProjectList = [
+    {
+        name: "Hat-Attack",
+        image: hat_attack,
+        skills: "C#, Unity",
+        link: "https://github.com/Ewu694/Hat-Attack",
+    },
     {
         name: "Meowshi",
         image: meowshi,
